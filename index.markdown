@@ -5,8 +5,6 @@
 layout: home
 ---
 
-# Orclida
-
 `Orclida` - The only **healthcare** app you will ever need.
 
 Our goal is to simplify and streamline the way you manage your health and wellness.
