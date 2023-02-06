@@ -16,3 +16,5 @@ With `Orclida`, you can easily book appointments, access and manage your medical
 We are dedicated to providing secure and reliable healthcare services to all of our users. Whether you're a patient or a practitioner, Orclida is here to improve your experience and make managing your health effortless.
 
 Discover the future of healthcare with Orclida. Get started today.
+
+![Orclida](/images/orclida.jpg)
