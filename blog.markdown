@@ -4,5 +4,3 @@
 
 layout: blog
 ---
-
-## Orclida Blog Post
