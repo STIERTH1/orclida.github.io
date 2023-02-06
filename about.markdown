@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Stay on top of your healthcare needs with Orclida. Our app simplifies appointment booking and medical record management. Quickly book appointments with your preferred practitioner, saving you time and effort.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+Your medical documents are securely stored online for easy access anytime, giving you peace of mind.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+Whether you're a patient or a practitioner, Orclida is here to enhance your life and make managing your health effortless.
