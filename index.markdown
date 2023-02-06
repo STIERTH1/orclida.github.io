@@ -5,8 +5,7 @@
 layout: home
 ---
 
-#Orclida
-{: .intro }
+# Orclida
 
 `Orclida` - The only **healthcare** app you will ever need.
 
