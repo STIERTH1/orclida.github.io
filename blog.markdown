@@ -3,6 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+group: navigation
 ---
-
-`Orclida` - The only **healthcare** app you will ever need.
