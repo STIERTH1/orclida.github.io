@@ -11,8 +11,8 @@ layout: default
             {{ post.title | escape }}
           </a>
         {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">Date: {{ post.date | date: date_format }}</span></br>
-        <span class="post-meta">Author: {{ post.author | escape }}</span>
+        <span class="post-meta"><u>Date:</u> {{ post.date | date: date_format }}</span></br>
+        <span class="post-meta"><u>Author:</u> {{ post.author | escape }}</span>
         <h3>
           
         </h3>
