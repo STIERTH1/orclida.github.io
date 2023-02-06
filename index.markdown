@@ -6,6 +6,7 @@ layout: home
 ---
 
 #Orclida
+{: .intro }
 
 The only **healthcare** app you will ever need.
 
