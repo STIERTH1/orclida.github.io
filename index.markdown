@@ -8,9 +8,9 @@ layout: home
 #Orclida
 {: .intro }
 
-The only **healthcare** app you will ever need.
+`Orclida` - The only **healthcare** app you will ever need.
 
-`Orclida` - the innovative solution for your healthcare needs. Our goal is to simplify and streamline the way you manage your health and wellness.
+Our goal is to simplify and streamline the way you manage your health and wellness.
 
 With `Orclida`, you can easily book appointments, access and manage your medical records, and connect with healthcare professionals. Our user-friendly application is designed to make your life easier and give you peace of mind when it comes to your health.
 
