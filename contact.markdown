@@ -8,6 +8,6 @@ We'd love to hear from you. If you have any questions, comments, or suggestions,
 
 You can contact us through the following options:
 
-Email: info@orclida.com
+Email: [info@orclida.com](mailto:info@orclida.com)
 
 We strive to respond to all inquiries within 24 hours.
