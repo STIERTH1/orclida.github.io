@@ -7,11 +7,6 @@ categories: orclida roadmmap
 
 At `Orclida`, we are always looking for ways to **improve** and **enhance** our services for our users. In this blog post, we're excited to share with you the latest features we've added to our platform.
 
-1. Appointment Booking
-   blablablablablablablabla
-2. Upload & Manage Health records
-   blablablablablablablabla
-
 | Feature ID | Stream    | Description                 |
 | ---------- | --------- | --------------------------- |
 | F-0.01     | Booking   | Create and cancel bookings  |
