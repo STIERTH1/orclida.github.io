@@ -11,7 +11,7 @@ cookieconsent.run({"notice_banner_type":"headline","consent_type":"express","pal
 <!-- Below is the link that users can use to open Preferences Center to change their preferences. Do not modify the ID parameter. Place it where appropriate, style it as needed. -->
 
 <li>
-  <a class="logo" href="{{my_page.url | relative_url}}"><img class="logo" src="{{my_page.url | relative_url}}/images/orclida_logo.png"/></a>
+  <a class="logo" href="{{ my_page.url | relative_url }}"><img class="logo" src="{{/images}}/orclida_logo.png"/></a>
 </li>
 <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
