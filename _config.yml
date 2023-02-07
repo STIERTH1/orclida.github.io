@@ -22,8 +22,8 @@ title: Orclida
 email: info@orclida.com
 description: >- # this means to ignore newlines until "baseurl:"
   The only healthcare app you will ever need.
-baseurl: "/orclida" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "orclida.github.io" # the subpath of your site, e.g. /blog
+url: "https://stierth1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: orclida
 linkedin_username: orclida
 instagram_username: orclida
