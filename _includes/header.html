@@ -10,7 +10,7 @@ cookieconsent.run({"notice_banner_type":"headline","consent_type":"express","pal
 <!-- End Cookie Consent by TermsFeed https://www.TermsFeed.com -->
 <!-- Below is the link that users can use to open Preferences Center to change their preferences. Do not modify the ID parameter. Place it where appropriate, style it as needed. -->
 
-<a class="logo" href="{{  my_page.url | relative_url  }}"><img class="logo" src="{{site.baseurul}}/images/orclida_logo.png"/></a>
+<a class="logo" href="{{  my_page.url | relative_url  }}"><img class="logo" src="{{ site.baseurl }}/images/orclida_logo.png"/></a>
 <div class="wrapper">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
