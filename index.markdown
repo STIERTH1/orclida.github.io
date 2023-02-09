@@ -15,4 +15,4 @@ We are dedicated to providing secure and reliable healthcare services to all of 
 
 Discover the future of healthcare with Orclida. Get started today.
 
-![Orclida](/images/orclida.jpg){: .align-left : width="500"}
+![Orclida](/images/orclida.jpg){: width="500"; .text-align-center}
