@@ -5,7 +5,7 @@
 layout: home
 ---
 
-`Orclida` - The only **healthcare** app you will ever need.
+<p align="center"> `Orclida` - The only **healthcare** app you will ever need. </p>
 
 Our goal is to simplify and streamline the way you manage your health and wellness.
 
