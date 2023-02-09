@@ -152,6 +152,7 @@ pre > code {
   margin-left: auto;
   padding-right: 30px;
   padding-left: 30px;
+  text-align: center;
 }
 @media screen and (max-width: 800px) {
   .wrapper {
